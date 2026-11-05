@@ -1,6 +1,6 @@
 // Student: Dominic Emilio Clemence
 // Class: CSE210 Section A3
-// Assignment: C# Prep 4
+// Assignment: C# Prep 4 - Lists
 
 using System;
 using System.Collections.Generic;

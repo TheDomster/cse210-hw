@@ -1,6 +1,6 @@
 // Student: Dominic Emilio Clemence
 // Class: CSE210 Section A3
-// Assignment: C# Prep 5
+// Assignment: C# Prep 5 - Functions
 
 using System;
 

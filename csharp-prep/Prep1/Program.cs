@@ -1,6 +1,6 @@
 // Student: Dominic Emilio Clemence
 // Class: CSE210 Section A3
-// Assignment: C# Prep 1
+// Assignment: C# Prep 1 - Variables - Input Output
 
 using System;
 
