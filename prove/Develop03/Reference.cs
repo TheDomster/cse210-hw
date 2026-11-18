@@ -33,7 +33,5 @@ public class Reference
         {
             return _bookName + " " + _chapterNumber + ":" + _startVerse + "-" + _endVerse;
         }
-
     }
-    
 }

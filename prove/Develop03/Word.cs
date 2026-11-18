@@ -41,7 +41,5 @@ public class Word
         {
             return _wordText;
         }
-
     }
-    
 }

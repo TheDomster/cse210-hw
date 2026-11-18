@@ -3,6 +3,7 @@
 //    Each book has both a single and double verse.
 // 2. Improved process of hiding words so no words are hidden more than once.
 // 3. If the user mistypes the word "quit", the program will let the user try again.
+
 using System;
 using System.Collections.Generic;
 
@@ -101,5 +102,4 @@ public class Program
             }
         }
     }
-    
 }

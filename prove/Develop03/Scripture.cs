@@ -48,7 +48,6 @@ public class Scripture
                 int randomNumber = picker.Next(visibleWords.Count);
                 visibleWords[randomNumber].Hide();
             }
-
         }
     }
 
@@ -62,7 +61,5 @@ public class Scripture
             }
         }
         return true;
-
     }
-    
 }
