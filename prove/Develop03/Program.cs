@@ -1,8 +1,8 @@
-// Showing Creativity and Exceeding Requirements:
-// 1. Created 10 scripture mastery verses from each of the standard works, plus the Pearl of Great Price. 
+// For creativity points I've done the following:
+// 1) Created 10 scripture mastery verses from each of the standard works, plus the Pearl of Great Price. 
 //    Each book has both a single and double verse.
-// 2. Improved process of hiding words so no words are hidden more than once.
-// 3. If the user mistypes the word "quit", the program will let the user try again.
+// 2) Improved process of hiding words so no words are hidden more than once.
+// 3) If the user mistypes the word "quit", the program will let the user try again.
 
 using System;
 using System.Collections.Generic;
